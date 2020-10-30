@@ -1,0 +1,24 @@
+﻿<Window x:Class="EnglishTest_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnglishTest_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="735.108" Width="982.853">
+    <Grid>
+        <Canvas x:Name="canvas">
+            <Rectangle x:Name="rect1" Height="118" Width="127" Canvas.Left="127" Canvas.Top="81" Fill="#FFF1E5E5" />
+            <Rectangle x:Name="rect2" Height="118" Width="127" Canvas.Left="447" Canvas.Top="81" Fill="#FFF1E5E5"/>
+            <Rectangle x:Name="rect3" Height="118" Width="127" Canvas.Left="722" Canvas.Top="81" Fill="#FFF1E5E5"/>
+            <Label x:Name="lbl1" Content="Apple" Height="24" Canvas.Left="143" Canvas.Top="52" Width="93"/>
+            <Label x:Name="lbl2" Content="Plum" Height="24" Canvas.Left="741" Canvas.Top="57" Width="93"/>
+            <Label x:Name="lbl3" Content="Pear" Height="24" Canvas.Left="464" Canvas.Top="57" Width="93"/>
+            <Image x:Name="img1" Height="113" Canvas.Left="127" Canvas.Top="253" Width="127" MouseDown="img_MouseDown" Source="C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\pear.jpg" />
+            <Image x:Name="img2" Height="113" Canvas.Left="447" Canvas.Top="253" Width="127" MouseDown="img_MouseDown" Source="C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\plum.jpg" />
+            <Image x:Name="img3" Height="113" Canvas.Left="722" Canvas.Top="253" Width="127" MouseDown="img_MouseDown" Source="C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\apple.jpg" />
+            <Button Content="Update" Height="77" Canvas.Left="557" Canvas.Top="411" Width="249" Click="Button_Click"/>
+        </Canvas>
+        <Button x:Name="checkButton" Content="Check" Grid.Column="1" HorizontalAlignment="Left" Height="74" Margin="76,409,0,0" VerticalAlignment="Top" Width="182" Click="CheckButton_Click"/>
+    </Grid>
+</Window>

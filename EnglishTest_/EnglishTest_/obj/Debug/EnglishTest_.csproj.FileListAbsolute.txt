@@ -1,0 +1,15 @@
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.csprojAssemblyReference.cache
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\MainWindow.g.cs
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\App.g.cs
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest__MarkupCompile.cache
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest__MarkupCompile.lref
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\bin\Debug\EnglishTest_.exe.config
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\bin\Debug\EnglishTest_.exe
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\bin\Debug\EnglishTest_.pdb
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\MainWindow.baml
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.g.resources
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.Properties.Resources.resources
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.csproj.GenerateResource.cache
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.csproj.CoreCompileInputs.cache
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.exe
+C:\Users\TYR\source\repos\EnglishTest_\EnglishTest_\obj\Debug\EnglishTest_.pdb
